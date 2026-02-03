@@ -1,0 +1,36 @@
+{
+  "name": "nekoapi",
+  "version": "1.0.0",
+  "description": "ASCII-generated cat images for your terminal and applications",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "keywords": [
+    "cat",
+    "cats",
+    "neko",
+    "ascii",
+    "ascii-art",
+    "terminal",
+    "cli",
+    "fun"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andr3colonel/nekoapi.git"
+  },
+  "homepage": "https://github.com/andr3colonel/nekoapi",
+  "bugs": {
+    "url": "https://github.com/andr3colonel/nekoapi/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "node test/test.js"
+  }
+}
